@@ -1,0 +1,21 @@
+.add-pet {
+  padding: 20px;
+}
+form {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
+input {
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+button {
+  padding: 10px;
+  background-color: #af3638;
+  color: white;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+}
